@@ -1,4 +1,4 @@
-### Hi 👋 MR TUNC
+### Hi 👋 Mr.tuncbth
 
 <!--
 **tuncbth/tuncbth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
