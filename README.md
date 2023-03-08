@@ -1,7 +1,7 @@
 <h1 align="center" > Hey I'm Tunc! </h1>
 <h4 align="center"> Hi I'm tunc I've been writing code for 2 years</h24>
 	
-<h3 align="center">18 y.o Developer </h3>
+<h3 align="center">18 Years old Developer </h3>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=tuncbth&label=Profile%20views&color=80ceff&style=flat-square" alt="tuncbth" /></p>
 
 <h2 align="center">Languages and Tools:</h2>
